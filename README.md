@@ -14,7 +14,7 @@ npm run develop
 yarn develop
 ```
 
-Than run comman in frontend folder:
+Than run command in frontend folder:
 
 ```bash
 npm run dev
