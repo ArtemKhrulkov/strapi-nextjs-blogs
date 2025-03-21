@@ -2,7 +2,7 @@
 
 ## Info
 
-This a blog of using NextJS + Strapi. The frontend is built using NextJS and the backend is built using Strapi.
+This a blog build by using NextJS + Strapi. The frontend is built using NextJS and the backend is built using Strapi.
 
 ## Getting Started
 
